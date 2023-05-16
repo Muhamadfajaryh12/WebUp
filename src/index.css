@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+    display: none;
+}
+.modal{
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.overlay {
+    background-color: rgba(0, 0, 0, 0.5); 
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 1000px;
+  }
+  html{
+    scroll-behavior: smooth;
+  }
+  
