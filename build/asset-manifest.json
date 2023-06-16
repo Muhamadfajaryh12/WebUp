@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b58ffcb.css",
+    "main.js": "/static/js/main.11b8cd35.js",
+    "static/media/gedung.jpg": "/static/media/gedung.499ae503cbd61803f1e7.jpg",
+    "static/media/node.png": "/static/media/node.e1d9233897fbe03fda7b.png",
+    "static/media/girl.png": "/static/media/girl.ca02d4f1334a0caed728.png",
+    "static/media/react.png": "/static/media/react.887f90e5aee8d7265f31.png",
+    "static/media/man.png": "/static/media/man.866ff0134137a6cabe86.png",
+    "static/media/python.png": "/static/media/python.503298156f31fb0aa578.png",
+    "static/media/porto5.jpg": "/static/media/porto5.e51bba552bb49e2a62ef.jpg",
+    "static/media/porto6.jpg": "/static/media/porto6.da206a878e2da46e1d07.jpg",
+    "static/media/porto1.jpg": "/static/media/porto1.c6624544650aeb910746.jpg",
+    "static/media/indonesia.png": "/static/media/indonesia.b8739c0a2e5421044297.png",
+    "static/media/awslogo.png": "/static/media/awslogo.99ae03c5e8dbc24c9d7e.png",
+    "static/media/porto4.jpg": "/static/media/porto4.8c222a59d954250ff8f1.jpg",
+    "static/media/profile1.jpg": "/static/media/profile1.1d4ba47c802e6e081d4b.jpg",
+    "static/media/angular.png": "/static/media/angular.d3315e790fdf8da66905.png",
+    "static/media/webpack.png": "/static/media/webpack.7c9ff0f67d83755b15f1.png",
+    "static/media/porto2.jpg": "/static/media/porto2.7111965985b8d9f018d2.jpg",
+    "static/media/googlelogo.png": "/static/media/googlelogo.301551927eba8acdb0a6.png",
+    "static/media/banner.png": "/static/media/banner.b705d32595c81c5c92d9.png",
+    "static/media/wordpress.png": "/static/media/wordpress.ce1546098cab7eecae1b.png",
+    "static/media/codeigniter.png": "/static/media/codeigniter.31bd5ba6f6ec90fc424a.png",
+    "static/media/laravel.png": "/static/media/laravel.b23101542c6446bbe4af.png",
+    "static/media/BgBanner.jpg": "/static/media/BgBanner.a4291b401501c2573111.jpg",
+    "static/media/porto3.jpg": "/static/media/porto3.c4ede07498068b918162.jpg",
+    "static/media/kominfologo.png": "/static/media/kominfologo.4c4edeeeb81b58b01faa.png",
+    "static/media/aboutman.jpg": "/static/media/aboutman.8894b265c54561f701a0.jpg",
+    "static/media/microsoftlogo.png": "/static/media/microsoftlogo.c8535d0475d866894dfd.png",
+    "static/media/Clock.png": "/static/media/Clock.714b528e1096ad730aa6.png",
+    "static/media/karir.JSON": "/static/media/karir.b31b4e2818a65331c11e.JSON",
+    "index.html": "/index.html",
+    "main.3b58ffcb.css.map": "/static/css/main.3b58ffcb.css.map",
+    "main.11b8cd35.js.map": "/static/js/main.11b8cd35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b58ffcb.css",
+    "static/js/main.11b8cd35.js"
+  ]
+}

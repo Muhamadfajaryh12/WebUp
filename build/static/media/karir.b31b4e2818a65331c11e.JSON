@@ -1,0 +1,176 @@
+{
+    "data" : [
+            {
+                "id":1,
+                "title":"Front End Web Developer",
+                "requirement":["2-5 years experience as Web Developer using React / Angular / Vue JS",
+                "Having technical knowledge of cross platform web design","Understand the concept of microservices and API in depth","Responsible, and able to work independently or in a team"
+                ,"Accustomed to doing code testing, troubleshooting bugs, and providing application technical support","Have a passion in the development of information technology"
+                ],
+                "start" :"06/04/2023",
+                "end":"10/04/2023",
+                "division":"IT/Programmer",
+                "experience":"2-5 years",
+                "qualification":"S1",
+                "IPK":"3,5"
+            },
+            {
+                "id":2,
+                "title":"Back End Web Developer",
+                "requirement":["A degree in Computer Science, Software Engineering or related fields",
+                "Minimum 4 years of experience in Software Engineering - with strong Computer Science fundamentals in algorithms and data structures",
+                "Experience in AWS/GCP",
+                "Experience in CICD pipelines",
+                "Passion in software engineering, application development, or systems development",
+                "Excellent understanding of software engineering concepts, design patterns, and algorithms"],
+                "start" :"06/04/2023",
+                "end":"10/04/2023",
+                "division":"IT/Programmer",
+                "experience":"4 years",
+                "qualification":"S1",
+                "IPK":"3,5"
+            },
+            {
+                "id":3,
+                "title":"UI UX Designer",
+                "requirement":[
+                    "Bachelor's Degree in Information Technology/Computer Science, Art/Visual Communication & Design, Creative Multimedia, Advertising Media, Engineering",
+                    "Minimum 1 years of experience as a Web Designer or Ul/UX Designer",
+                    "Good time-management and problem-solving skills",
+                    "Experience with Figma (is a must) Sketch, Adobe Products (Photoshop, XD, and Illustrator), Marvel, Zeplin, or other design tools"
+                ],
+                "start" :"06/04/2023",
+                "end":"10/04/2023",
+                "division":"IT/Designer",
+                "experience":"1 years",
+                "qualification":"S1",
+                "IPK":"3,5"
+            },
+            {
+                "id":4,
+                "title":"React JS Developer",
+                "requirement":[
+                    "At least 4+ years of experience in Frontend Engineering using React over TypeScript",
+                    "Experience with API design",
+                    "Experience with continuous",
+                    "Experience with NodeJS",
+                    "Experience with continuous integration",
+                    "Deployment (CI/CD) based on GitHub action"
+                ],
+                "start" :"06/04/2023",
+                "end":"10/04/2023",
+                "division":"IT/Programmer",
+                "experience":"4-5 years",
+                "qualification":"S1",
+                "IPK":"3"
+            },
+            {
+                "id":5,
+                "title":"Consultant Web Manager ",
+                "requirement":[
+                    "Bachelor’s degree or master’s – in an IT and/or related business area",
+                    "3+ years of IT Professional experience in Solution Management, Project Management, Product Management or Service Management areaThorough understanding of end-to-end website delivery process",
+                    "Hands-on experience in one of the front-end web technologies HTML/5, CSS, JavaScript (i.e., React.js)",
+                    "Working knowledge of server-side technologies Tomcat, Apache Http, Solr, etc",
+                    "Ability to deliver results in global, matrixed environments comprised of internal and external stakeholders",
+                    "Strong skills in communication, writing, and ability to collaborate cross-functionally",
+                    "Professional scrum certification (Product owner, Scale, Agile Leadership) is a plus"
+                ],
+                "start" :"06/04/2023",
+                "end":"10/04/2023",
+                "division":"IT/Programmer",
+                "experience":"3-4 years",
+                "qualification":"S1 - S2",
+                "IPK":"3"
+            },
+            {
+                "id":6,
+                "title":"Blockchain Developer",
+                "requirement":["Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)",
+                "At least 3+ years of relevant experience as a software engineer",
+                "Extensive experience in Rust and Python",
+                "Fluent in verbal and written English"
+                ],
+                "start" :"06/04/2023",
+                "end":"10/04/2023",
+                "division":"IT/Programmer",
+                "experience":"2-5 years",
+                "qualification":"S1 - S2",
+                "IPK":"3,5"
+            },
+            {
+                "id":7,
+                "title":"Software Tester",
+                "requirement":[ "D3/Associate degree graduate",
+                "Experience with Automated Testing Frameworks, Test Strategies and Test Beds",
+                "Experience with Software Development",
+                "Experience with Agile Methodologies",
+                "Experience with Software Testing Methodologies",
+                "Knowledge of Testing Tools, Testing Frameworks, Continuous Integration Methodologies",
+                "Knowledge of Web Application Testing, Distributed System Testing, Performance Testing, Regression Testing, Database Testing, Mobile Testing, Security Testing, Accessibility Testing, Web Service Testing"],
+                "start" :"06/04/2023",
+                "end":"10/04/2023",
+                "division":"IT/Programmer",
+                "experience":"4 years",
+                "qualification":"D3 - S1",
+                "IPK":"3,5"
+            },
+            {
+                "id":8,
+                "title":"Senior Fullstack Engineer",
+                "requirement":[
+                    "Have debugging skill (Browser Developer tools)",
+                    "Have min 3 years of experiences in frontend developer",
+                    "Experience in backend development with NodeJS",
+                    "Able to speak, read, and write in English",
+                    "Have 2 years’ experience using the TypeScript programming language",
+                    "Capable in JavaScript including HTML manipulation, CSS, and JavaScript object models",
+                    "Familiar with Code Versioning",
+                    "Able to use GIT Command (merge, get, latest, push, pull, Etc)"
+                ],
+                "start" :"06/04/2023",
+                "end":"10/04/2023",
+                "division":"IT/Programmer",
+                "experience":"3 years",
+                "qualification":"S1",
+                "IPK":"3,5"
+            },
+            {
+                "id":9,
+                "title":"Cyber Security Engineer",
+                "requirement":[
+                    "Graduate from reputable university majoring in Information Technology or Computer Science",
+                    "Have PSNSE or CCNA or FSCA certificate is advantage",
+                    "Have a very good knowledge of networking concepts",
+                    "Experienced to work in multiple O/S (e.g. MS Windows, Linux, etc.)",
+                    "Have a very good knowledge in security area (e.g. Firewall, IPS/IDS)",
+                    "Fresh Graduate are welcome to apply"
+                ],
+                "start" :"06/04/2023",
+                "end":"10/04/2023",
+                "division":"IT/Programmer",
+                "experience":"1 years",
+                "qualification":"S1",
+                "IPK":"3,5"
+            },
+            {
+                "id":10,
+                "title":"Product / IT Project Manager (Web2 & Web3)",
+                "requirement":[
+                    "Bachelor’s degree in information security, computer science, or related",
+                    "At least two years experience as a product owner or IT team lead",
+                    "Advanced proficiency in AWS and server admin systems",
+                    "Knowledge of blockchain protocols, especially regarding smart contracts on Ethereum and other EVM networks",
+                    "Advanced analytical and problem-solving skills",
+                    "Superb organizational skills and keen attention to detail",
+                    "Excellent communication and collaboration abilities"
+                ],
+                "start" :"06/04/2023",
+                "end":"10/04/2023",
+                "division":"IT/Programmer",
+                "experience":"1-2 years",
+                "qualification":"S1 - S2",
+                "IPK":"3,5"
+            }
+    ]
+}
